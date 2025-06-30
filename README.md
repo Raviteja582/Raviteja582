@@ -36,7 +36,7 @@ _Apr 2021 – Aug 2024_
 - [Question Paper Generator](<https://github.com/Raviteja582/MajorProject.git>) · Node.js, Express, MongoDB, React  
   Generates formatted PDF exams from 10 K+ indexed questions in under 5 s (– 80% prep time).
 
-- [UnLock ArXiv](<https://drive.google.com/drive/folders/1k0jqTCOvSKHM7TKIOvSZeEIL0bP4uLDc?usp=drive_link>) · Mistral-7B + LoRA, Scientific QA  
+- [UnLock ArXiv](<https://drive.google.com/drive/folders/1CxHqi_KFK-datSQPeF62SKJIjVenVW6Y?usp=drive_link>) · Mistral-7B + LoRA, Scientific QA  
   Achieved 83% exact-match on a 500-question benchmark.
 
 ## 🎓 Education
